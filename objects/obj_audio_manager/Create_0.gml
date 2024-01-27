@@ -1,8 +1,20 @@
-//bg_audio_map = {
-//	"rm_bird_poop": snd_street_level_bg_music,
-//	"rm_granny": false
-//}
+// Background music code
+var _audio_track = noone;
 
-//var _bg_audio = struct_get(bg_audio_map, room_get_name(room));
+switch (room)
+{
+    case rm_bird_poop:
+        _audio_track = snd_street_level_bg_music;
+    break;
 
-//audio_play_sound(_bg_audio, 0, true);
+    case rm_granny:
+        _audio_track = noone;
+    break;
+
+    default:
+        _audio_track = snd_street_level_bg_music;
+}
+
+if(_audio_track != noone){
+	audio_play_sound(_audio_track, 0, true);
+}

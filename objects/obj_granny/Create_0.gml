@@ -1,0 +1,1 @@
+thread_active = false;

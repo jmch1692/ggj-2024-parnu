@@ -6,8 +6,8 @@
   "bbox_left": 19,
   "bbox_right": 49,
   "bbox_top": 19,
-  "bboxMode": 0,
-  "collisionKind": 1,
+  "bboxMode": 2,
+  "collisionKind": 2,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "granny",
+    "path": "folders/Sprites/granny.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

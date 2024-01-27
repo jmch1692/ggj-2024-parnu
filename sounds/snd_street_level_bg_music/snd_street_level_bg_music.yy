@@ -10,7 +10,7 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 16.613878,
+  "duration": 14.767891,
   "parent": {
     "name": "street_level",
     "path": "folders/Sounds/audios/street_level.yy",
