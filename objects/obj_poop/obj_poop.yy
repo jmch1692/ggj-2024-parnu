@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_walking_guy",
-    "path": "sprites/spr_walking_guy/spr_walking_guy.yy",
+    "name": "spr_poop",
+    "path": "sprites/spr_poop/spr_poop.yy",
   },
   "spriteMaskId": {
     "name": "spr_walking_guy",

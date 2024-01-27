@@ -3,7 +3,7 @@ if(!enabled){
 }
 
 if(mouse_check_button_pressed(mb_left) && path_position > 0 && !pooping){
-	instance_create_layer(x, y + 3, "Instances", obj_poop);
+	var _poop = instance_create_layer(x, y + 3, "Instances", obj_poop);
 	path_speed = 0;
 	pooping = true;
 	sprite_index  = spr_bird_poop;

@@ -1,0 +1,1 @@
+path_start(pth_mouse_around, 15, path_action_stop, false);
