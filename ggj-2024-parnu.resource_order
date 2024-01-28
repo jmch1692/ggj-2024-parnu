@@ -40,6 +40,7 @@
     {"name":"spr_granny_legs","order":13,"path":"sprites/spr_granny_legs/spr_granny_legs.yy",},
     {"name":"spr_banana","order":2,"path":"sprites/spr_banana/spr_banana.yy",},
     {"name":"snd_lose","order":5,"path":"sounds/snd_lose/snd_lose.yy",},
+    {"name":"spr_bg_transition_2","order":3,"path":"sprites/spr_bg_transition_2/spr_bg_transition_2.yy",},
     {"name":"spr_bg_transition_1","order":2,"path":"sprites/spr_bg_transition_1/spr_bg_transition_1.yy",},
     {"name":"seq_granny_glasses","order":2,"path":"sequences/seq_granny_glasses/seq_granny_glasses.yy",},
     {"name":"spr_mouse","order":3,"path":"sprites/spr_mouse/spr_mouse.yy",},
@@ -111,6 +112,7 @@
     {"name":"obj_audio_manager","order":1,"path":"objects/obj_audio_manager/obj_audio_manager.yy",},
     {"name":"obj_yarn_ball","order":1,"path":"objects/obj_yarn_ball/obj_yarn_ball.yy",},
     {"name":"pth_bird","order":1,"path":"paths/pth_bird/pth_bird.yy",},
+    {"name":"transition_room_2","order":7,"path":"rooms/transition_room_2/transition_room_2.yy",},
     {"name":"spr_red_herring","order":6,"path":"sprites/spr_red_herring/spr_red_herring.yy",},
   ],
 }
