@@ -9,7 +9,7 @@ switch (room)
     break;
 	
     case rm_bird_poop:
-        _audio_track = choose(snd_main_menu_music, snd_street_level_bg_music);;
+        _audio_track = choose(snd_main_menu_music, snd_street_level_bg_music);
     break;
 
     case rm_granny:
@@ -17,7 +17,7 @@ switch (room)
     break;
 
     default:
-        _audio_track = choose(snd_main_menu_music, snd_street_level_bg_music);;
+        _audio_track = choose(snd_main_menu_music, snd_street_level_bg_music);
 }
 
 if(_audio_track != noone){
