@@ -7,4 +7,5 @@ win_condition = false;
 surface_xscale = view_wport[0] / camera_get_view_width(0);
 surface_yscale = view_hport[0] / camera_get_view_height(0);
 
-window_set_cursor(cr_handpoint);
+window_set_cursor(cr_none);
+cursor_sprite = spr_pointer;
