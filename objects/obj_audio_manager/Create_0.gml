@@ -9,11 +9,15 @@ switch (room)
     break;
 	
     case rm_bird_poop:
-        _audio_track = choose(snd_main_menu_music, snd_street_level_bg_music);
+        _audio_track =  snd_street_level_bg_music;
     break;
+	
+	case rm_finger_pull:
+		_audio_track = snd_pixel;
+	break;
 
     case rm_granny:
-        _audio_track = choose(snd_main_menu_music, snd_street_level_bg_music);
+        _audio_track = snd_main_menu_music;
     break;
 
     default:
