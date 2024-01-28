@@ -29,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_thread",
-    "path": "sprites/spr_thread/spr_thread.yy",
+    "name": "spr_yarn_thread",
+    "path": "sprites/spr_yarn_thread/spr_yarn_thread.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
